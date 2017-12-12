@@ -1,0 +1,18 @@
+{
+  "name": "codelism",
+  "version": "0.0.1",
+  "description": "Codelism.com frontend code",
+  "main": "index.js",
+  "author": "Akaradech Sutheesuntornkul",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
